@@ -1,0 +1,10 @@
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\bin\Debug\StudentEvaluation System.exe.config
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\bin\Debug\StudentEvaluation System.exe
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\bin\Debug\StudentEvaluation System.pdb
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation System.csprojResolveAssemblyReference.cache
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation_System.UIL.CourseInformation.resources
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation_System.LOGIN.resources
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation_System.Properties.Resources.resources
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation System.csproj.GenerateResource.Cache
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation System.exe
+c:\users\fahim\documents\visual studio 2015\Projects\StudentEvaluation System\StudentEvaluation System\obj\Debug\StudentEvaluation System.pdb
